@@ -24,7 +24,7 @@
 <a href="https://www.leetcode.com/tambegaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tambegaurav" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tambegaurav&show_icons=true&locale=en" alt="tambegaurav" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tambegaurav&show_icons=true&locale=en" alt="tambegaurav" /></p>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tambegaurav&show_icons=true&locale=en&layout=compact" alt="tambegaurav" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tambegaurav&show_icons=true&locale=en&layout=compact" alt="tambegaurav" /></p> -->
 
