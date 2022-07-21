@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
 
-- 👨‍💻 Know more about me at [https://gauravtambe.com](gauravtambe.com)
+- 👨‍💻 Know more about me at [gauravtambe.com](https://gauravtambe.com)
 
 - 💬 Ask me about **javascript, react and mongoDb**
 
